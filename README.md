@@ -1,2 +1,4 @@
 # Repositorio para a tese
-## Ficheiro principal
+## Blog
+
+    O blog é o encontra-se na pasta blog
