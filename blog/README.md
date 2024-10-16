@@ -12,8 +12,8 @@ Tentei mandar um programa para o robô mas não funcionou, testarei novamente na
 Configurar o robô não foi possível também, pelo que assumo que ele já está configurado do antigo utilizador.
 No fim arrumei o robô e vim embora.
 
-![Nao Sentado na posição de repouso, e que ele assume ao desligar] (./multimedia/imagens/11out_NaoSentado.jpg)
-![Tentativa de ligar o Nao quando ele se encontra sentado] (./multimedia/videos/11out_NaoLigaSentado.mp4)
+![Nao Sentado na posição de repouso, e que ele assume ao desligar](./multimedia/imagens/11out_NaoSentado.jpg)
+![Tentativa de ligar o Nao quando ele se encontra sentado](./multimedia/videos/11out_NaoLigaSentado.mp4)
 
 ## 16 de outubro de 2024
 
